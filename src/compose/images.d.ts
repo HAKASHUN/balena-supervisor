@@ -1,7 +1,7 @@
 import Image from '../types/image';
 
 declare class Images {
-	public getStatus(): Image[];
+	public getStatus(localMode?: boolean): Image[];
 }
 
 export = Images;
