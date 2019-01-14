@@ -1,4 +1,16 @@
 - commits:
+    - subject: Add application status endpoint
+      hash: 9de805f0e4908b5be80997bbb496615c3934d2da
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+  version: 9.4.0
+  date: 2019-01-14T11:35:59.258Z
+- commits:
     - subject: 'refactor: Remove unnecessary validations and casts'
       hash: 6a3148ff80989ac061b33332938181ed7c1ca3ba
       body: ''
