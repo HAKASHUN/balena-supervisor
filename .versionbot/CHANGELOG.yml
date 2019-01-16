@@ -1,4 +1,16 @@
 - commits:
+    - subject: Upgrade to node 8 for supported architectures
+      hash: 125dd86a5c3f54dcb8ffeddfd506308f9931a43c
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Cameron Diver <cameron@balena.io>
+        signed-off-by: Cameron Diver <cameron@balena.io>
+      author: Cameron Diver
+  version: 9.4.0
+  date: 2019-01-16T15:59:35.074Z
+- commits:
     - subject: Send connection message when streaming local mode logs
       hash: 06cdaddd714b3310574dcacabc6e416d03646b33
       body: ''
